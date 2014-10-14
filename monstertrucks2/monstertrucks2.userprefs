@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\TomsScripts\NguiDisplayScript.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\NguiDisplayScript.cs" Line="19" Column="97" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\PlayerValuesScript.cs" Line="27" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\ComponentScript.cs" Line="149" Column="34" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\ResetPlayerStatsScript.cs" Line="214" Column="35" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\ChangeNameButtonScript.cs" Line="43" Column="32" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\BackScript.cs" Line="13" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\endscreen.cs" Line="7" Column="14" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\endback.cs" Line="5" Column="21" />
+      <File FileName="Assets\Standard Assets\Scripts\TomsScripts\hover Script(1).js" Line="6" Column="38" />
+      <File FileName="Assets\GetPlayerPrefs.js" Line="1" Column="1" />
+      <File FileName="Assets\timer.js" Line="51" Column="54" />
+      <File FileName="Assets\PointsTracker.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
